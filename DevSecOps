@@ -1,0 +1,10 @@
+Build Lifecycle AppSec Tools (work in progress)
+
+* C/C++
+  RATS - Rough Auditing Tool for Security
+  Valgrind - Memory Mismanagement Analyser
+  CPPCheck
+  CPPlink
+  Clang
+  Flawfinder
+  Splint - aggregation of several of the above (http://www.splint.org)
